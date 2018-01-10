@@ -1,3 +1,11 @@
 ROYGBIV
 
+Red
+Orange
+Yellow
+Green
+Blue
+Indigo
+Violet
+
 the colors of the rainbow
